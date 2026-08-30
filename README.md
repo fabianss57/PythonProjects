@@ -1,2 +1,2 @@
-# PythonProjects
-Currently I will be uploading projects that I have made through online course I am taking through Udemy
+# Basic Black Jack
+One of the small projects I created that was guided from a Udemy Course
